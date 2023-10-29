@@ -1,0 +1,6 @@
+const TOKEN = "PORTFOLIO-TOKEN";
+const USER = "PORTFOLIO-USER";
+const LIMIT = 10;
+const USER_ID = "ID_USER";
+
+export {TOKEN,USER,LIMIT,USER_ID}

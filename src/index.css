@@ -1,0 +1,26 @@
+.container{
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px 32px;
+}
+
+.row{
+  display: flex;
+}
+
+body{
+  font-family: 'Sometype Mono', monospace;
+}
+
+button{
+  border: 1px solid black;
+  height: 35px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+button:hover{
+  background-color: lightblue;
+}

@@ -1,0 +1,11 @@
+h2{
+    color: black;
+}
+
+.open{
+    top: 100px;
+}
+
+.close{
+    top: -300px;
+}
